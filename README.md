@@ -7,4 +7,4 @@ Nesse script python, apresento com código a concepção geral do Teorema do Lim
 
 # 2. Distribuição Binomial
 
-Nesse script, utilizado a implementação da Distribuição Binomial em Python e apresento alguns apontamentos sobre a mesma.
+Nesse script, utilizando a implementação da Distribuição Binomial em Python, apresento alguns apontamentos sobre a mesma.
